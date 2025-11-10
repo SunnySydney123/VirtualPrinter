@@ -34,7 +34,7 @@ cd VirtualPrinter
 python VirtualPrinter.py
 ```
 
-### Option 2: Create Standalone Executable
+### Option 2: Create Standalone Executable (Run without the need to install Python on client PC)
 
 ```bash
 # Install PyInstaller
